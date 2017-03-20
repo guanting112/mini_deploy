@@ -12,3 +12,22 @@ Via Rubygems
 ```shell
 gem install mini_deploy
 ```
+
+Usage
+--------
+
+![usage_output](http://i.imgur.com/s7Z5GEp.png)
+
+```shell
+
+mdt install
+
+mdt start receipts/sample.yml --host config/sample_hosts.yml
+
+```
+
+
+LICENSE
+--------
+
+MIT LICENSE ( See LICENSE.txt ) 
