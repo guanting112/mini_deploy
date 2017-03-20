@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+require 'mini_deploy'
+
+MiniDeploy::Cli.start ARGV
