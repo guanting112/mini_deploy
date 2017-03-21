@@ -6,10 +6,10 @@ require 'mini_deploy/version'
 Gem::Specification.new do |spec|
   spec.name          = "mini_deploy"
   spec.version       = MiniDeploy::VERSION
-  spec.authors       = ["Guanting Chen (@Sif)"]
+  spec.authors       = ["Guanting Chen"]
   spec.email         = ["cgt886@gmail.com "]
-  spec.summary       = %q{mini deploy tools}
-  spec.description   = %q{upload script to remote server}
+  spec.summary       = %q{Mini Deployment Tool}
+  spec.description   = %q{Upload Script to Remote Server}
   spec.homepage      = "https://github.com/guanting112/mini_deploy"
   spec.license       = "MIT"
   spec.platform      = Gem::Platform::RUBY
