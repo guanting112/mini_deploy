@@ -21,10 +21,10 @@ Usage
 ```shell
 
 # Create Sample Script
-mdt install
+mini-deploy install
 
 # Start Receipts
-mdt start receipts/sample.yml --host config/sample_hosts.yml
+mini-deploy start receipts/sample.yml --host config/sample_hosts.yml
 
 ```
 
